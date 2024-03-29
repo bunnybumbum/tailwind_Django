@@ -18,10 +18,6 @@
 
    Alternatively, you can install the latest development version via:
 
-   ```bash
-   python -m pip install git+https://github.com/timonweb/django-tailwind.git
-   ```
-
 2. Add `'tailwind'` to `INSTALLED_APPS` in `settings.py`:
    ```python
    INSTALLED_APPS = [

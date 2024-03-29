@@ -1,6 +1,3 @@
-# Tailwind CSS integration for Django a.k.a. Django + Tailwind = 💚
-![Django Tailwind Demo](https://raw.githubusercontent.com/timonweb/django-tailwind/master/docs/django-tailwind-demo-800.gif)
-
 ## Goal
 This project aims to provide a comfortable way of using the *Tailwind CSS* framework within a Django project.
 
@@ -10,8 +7,6 @@ This project aims to provide a comfortable way of using the *Tailwind CSS* frame
 * Out of the box support for CSS imports, SASS-like variables, and nesting;
 * Includes official *Tailwind CSS* plugins like *typography*, *form*, *line-clamp*, and *aspect-ratio*;
 * Supports the latest *Tailwind CSS* `v3.x`;
-
-> [For instructions on upgrading from `v2` to `v3`, see this post on my blog](https://timonweb.com/django/django-tailwind-with-support-for-the-latest-tailwind-css-v3-is-out/).
 
 ## Requirements
 Python 3.10 or newer with Django >= 3.2 or newer.
@@ -36,5 +31,3 @@ Check docs for the [Installation](https://django-tailwind.readthedocs.io/en/late
 ## Bugs and suggestions
 
 Please see [CONTRIBUTING](CONTRIBUTING.md).
-
-2019 - 2023 (c) [Tim Kamanin - A Full Stack Django Developer](https://timonweb.com)

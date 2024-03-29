@@ -2,10 +2,10 @@
 name = "django-tailwind"
 version = "3.8.0"
 description = "Tailwind CSS Framework for Django projects"
-authors = ["Tim Kamanin <tim@timonweb.com>"]
+authors = ["Tim Kamanin <bunnyyellow1209@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/timonweb/django-tailwind"
+homepage = "https://github.com"
 keywords = ["django", "tailwind", "css"]
 classifiers = [
     "Development Status :: 4 - Beta",
